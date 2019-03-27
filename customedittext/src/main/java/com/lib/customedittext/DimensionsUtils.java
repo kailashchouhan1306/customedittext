@@ -5,8 +5,6 @@ import android.support.annotation.DimenRes;
 
 /**
  * @author Kailash Chouhan
- * creationDate 07-Mar-18
- * Copyright © 2018 SynsoftGlobal. All rights reserved.
  */
 
 public class DimensionsUtils {

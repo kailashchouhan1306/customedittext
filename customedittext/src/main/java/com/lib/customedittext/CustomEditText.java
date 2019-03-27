@@ -30,7 +30,6 @@ import java.util.Hashtable;
 
 /**
  * @author Kailash Chouhan
- * Copyright © 2018 SynsoftGlobal. All rights reserved.
  */
 
 public class CustomEditText extends FrameLayout {
