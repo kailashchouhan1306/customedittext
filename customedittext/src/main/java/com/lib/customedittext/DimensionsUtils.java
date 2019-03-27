@@ -18,7 +18,7 @@ public class DimensionsUtils {
         return context.getResources().getDimension(resourceId);
     }
 
-    public static int getDimensionPixelSize(Context context, @DimenRes int resourceId) {
+    static int getDimensionPixelSize(Context context, @DimenRes int resourceId) {
         return context.getResources().getDimensionPixelSize(resourceId);
     }
 
